@@ -1,0 +1,16 @@
+Company IT Security Policy
+
+1. Passwords
+Employees must use passwords containing at least 12 characters, including uppercase letters, lowercase letters, numbers, and special characters.
+
+2. Multi-Factor Authentication
+Multi-factor authentication (MFA) is mandatory for all company email accounts and remote access systems.
+
+3. Device Security
+Employees must lock their computers whenever they leave their desks. Company laptops must use approved endpoint protection software.
+
+4. Data Sharing
+Confidential company information must not be shared with unauthorized external parties. Employees must use company-approved file-sharing tools for business documents.
+
+5. Security Incidents
+Suspected phishing emails or security incidents must be reported to the IT Security team immediately.

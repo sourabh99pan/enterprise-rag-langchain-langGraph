@@ -1,0 +1,13 @@
+.deepeval/
+.vscode/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+logs/
+*.sqlite
+*.db
+chroma_backup.json
